@@ -98,3 +98,4 @@ E:\SoftUni\QA\QA_Back_End_Test_Automation_Juli_2025\013_ExamPreparation\QA_ExamP
 E:\SoftUni\QA\QA_Back_End_Test_Automation_Juli_2025\013_ExamPreparation\QA_ExamPrep\QA_IdeaCenterTest\obj\Debug\net8.0\QA_IdeaCenterTest.pdb
 E:\SoftUni\QA\QA_Back_End_Test_Automation_Juli_2025\013_ExamPreparation\QA_ExamPrep\QA_IdeaCenterTest\obj\Debug\net8.0\QA_IdeaCenterTest.genruntimeconfig.cache
 E:\SoftUni\QA\QA_Back_End_Test_Automation_Juli_2025\013_ExamPreparation\QA_ExamPrep\QA_IdeaCenterTest\obj\Debug\net8.0\ref\QA_IdeaCenterTest.dll
+E:\SoftUni\QA\QA_Back_End_Test_Automation_Juli_2025\013_ExamPreparation\QA_ExamPrep\QA_IdeaCenterTest\obj\Debug\net8.0\QA_IdeaCenterTest.sourcelink.json

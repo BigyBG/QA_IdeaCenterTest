@@ -13,8 +13,10 @@ public class IdeaCenterAPIsTests
     private string lastIdeaId = string.Empty;
 
     private string JwtToken = null;
-    private string Email = "IvayloV@example.com";
-    private string Password = "123321";
+
+    private string Email = Environment.GetEnvironmentVariable("IDEA_CENTER_EMAIL");
+    private string Password = Environment.GetEnvironmentVariable("IDEA_CENTER_PASS");
+
 
     private string BaseUrl = "http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84";
 
